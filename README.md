@@ -1,6 +1,6 @@
 <!-- usefexe · GitHub profile -->
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Youssef It Salah — Web Developer from Morocco" />
+  <img src="./assests/hero.svg" width="100%" alt="Youssef It Salah — Web Developer from Morocco" />
   <br/><br/>
   <a href="https://linkedin.com/in/youssef-it-salah"><img src="https://img.shields.io/badge/LinkedIn-FFDE21?style=for-the-badge&logo=linkedin&logoColor=10141e" alt="LinkedIn" /></a>
   <a href="https://instagram.com/ysf-itsalh"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FFDE21" alt="Instagram" /></a>
