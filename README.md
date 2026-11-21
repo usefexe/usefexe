@@ -1,28 +1,119 @@
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=120&section=header" />
-</a>
- 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFDE21&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Im+youssef+👋;I'm+from+Morocco+🇲🇦;I'm+a+web+devloper+💻;Welcome+To+My+Account!+ツ)
+<!-- usefexe · GitHub profile -->
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Youssef It Salah — Web Developer from Morocco" />
+  <br/><br/>
+  <a href="https://linkedin.com/in/youssef-it-salah"><img src="https://img.shields.io/badge/LinkedIn-FFDE21?style=for-the-badge&logo=linkedin&logoColor=10141e" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ysf-itsalh"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FFDE21" alt="Instagram" /></a>
+  <a href="https://github.com/usefexe?tab=repositories"><img src="https://img.shields.io/badge/My%20Projects-161B22?style=for-the-badge&logo=github&logoColor=FFDE21" alt="My projects" /></a>
+  <img src="https://komarev.com/ghpvc/?username=usefexe&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" alt="Profile views" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=FFDE21&center=true&vCenter=true&width=650&lines=From+ideas+to+interfaces.;From+bugs+to+better+code.;Build.+Debug.+Repeat." alt="From ideas to interfaces. From bugs to better code. Build. Debug. Repeat." />
+</div>
 
+## 01 / About me
 
-# 💫 About Me:
-🔭 I'm currently working on improving my web development skills and building projects.<br><br>👯 I'm looking to collaborate on web development projects.<br><br>🤝 I'm open to learning from other developers and helping whenever I can.<br><br>🌱 I'm currently learning JavaScript, React, Node.js and Full Stack Development.<br><br>💬 Ask me about JavaScript, php, CSS and Web Development.<br><br>⚡ Fun fact: I enjoy turning ideas into real projects and learning by building.
+I'm **Youssef**, a web developer from Morocco and a learner at **YouCode Safi**. I turn ideas into real projects, explore how things work under the hood, and enjoy the process of debugging as much as building.
 
+```javascript
+const youssef = {
+  location: "Morocco 🇲🇦",
+  focus: ["Frontend Development", "Full Stack Development"],
+  learning: ["JavaScript", "React", "Node.js"],
+  openTo: ["Collaboration", "New challenges"],
+  philosophy: "Understand first. Build second. Improve always."
+};
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ysf-itsalh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-it-salah) 
+## 02 / Tech stack
 
-# 💻 Tech Stack:
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=usefexe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=usefexe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=usefexe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=8993BE" alt="PHP" />
+      <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Sass-161B22?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass" />
+      <img src="https://img.shields.io/badge/Three.js-161B22?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/React%20Router-161B22?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React Router" />
+      <img src="https://img.shields.io/badge/Redux-161B22?style=flat-square&logo=redux&logoColor=A78BFA" alt="Redux" />
+      <img src="https://img.shields.io/badge/React%20Hook%20Form-161B22?style=flat-square&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" />
+      <img src="https://img.shields.io/badge/Remix-161B22?style=flat-square&logo=remix&logoColor=white" alt="Remix" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend &amp; Data</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Laravel-161B22?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+      <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Dev tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05033" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitLab-161B22?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud &amp; Deploy</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Netlify-161B22?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify" />
+      <img src="https://img.shields.io/badge/Cloudflare-161B22?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Google%20Cloud-161B22?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Design</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+      <img src="https://img.shields.io/badge/Canva-161B22?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva" />
+      <img src="https://img.shields.io/badge/Framer-161B22?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+    </td>
+  </tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 03 / Featured projects
+
+| Project | What it does | Technologies |
+| :--- | :--- | :--- |
+| **[DevScope](https://github.com/usefexe/DEVSCOPE)** | Explore GitHub profiles, repositories, and developer shortlists. | `JavaScript` `REST API` `Tailwind CSS` |
+| **TACHKILA V2** | Manage a football team, formations, players and match schedules. | `JavaScript` `Tailwind CSS` `LocalStorage` |
+| **KumaSpa** | Manage massage services, appointments and client accounts. | `PHP` `MySQL` `HTML/CSS` |
+
+<p align="right"><a href="https://github.com/usefexe?tab=repositories">Explore all repositories →</a></p>
+
+## 04 / GitHub activity
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=usefexe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFDE21&icon_color=FFDE21&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=usefexe&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFDE21&text_color=C9D1D9" alt="Top programming languages" />
+  <br/><br/>
+  <img width="80%" src="https://streak-stats.demolab.com/?user=usefexe&theme=dark&background=0D1117&hide_border=true&ring=FFDE21&fire=FFDE21&currStreakLabel=FFDE21" alt="GitHub contribution streak" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=usefexe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <strong>Curiosity is my favorite framework.</strong>
+  <br/>
+  <sub>Built with curiosity, one commit at a time.</sub>
+  <br/><br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFDE21&height=68&section=footer" alt="" />
+</div>
